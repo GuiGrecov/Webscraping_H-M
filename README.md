@@ -3,6 +3,9 @@
 ![image](https://user-images.githubusercontent.com/94385953/148562978-f79cb28b-da2c-4ce3-9d4b-8077aad3e671.png)
 
  <b> AVISO: </b> O CEO citado no problema de negócios não existe. Esse webscraping foi feito para fins de estudos e demonstração de habilidades/competências não me responsabilizo para o uso indefido desse código de Webscraping. 
+ <br>
+  <b> O QUE É WEBSCRAPING: </b> Webscraping é uma técnica capaz de conseguir selecionar dados de sites, varrendo o código HTLM do site e chegando a informações interessantes para uma análise. Muito utilizada em E-COMMERCE para monitorar o preço de concorrentes. 
+ 
  
 
  # Problema de Negócio 
