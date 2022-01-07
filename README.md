@@ -26,7 +26,7 @@
  Como não temos um servidor disponível, por ser um projeto de portfólio, vou gerar um csv com as informações do Webscraping para totalizar os 2 meses. Temos como agendar tarefas no Windows para esse processo ocorrer de forma automática toda vez que iniciamos o notebook. 
  
  ## Onde ficará o CSV? 
-Programei para o Webscrping gerar um arquivo por dia, para totalizar os 2 meses de amostra. 
+Programei para o Webscraping gerar um arquivo por dia, para totalizar os 2 meses de amostra. 
  ![image](https://user-images.githubusercontent.com/94385953/148567479-0b096e52-ca07-48b5-9d00-4660e58de4ff.png)
   <br>
   A cada dia que o Webscraping for executado ele atualiza um arquivo novo com o final de data diferente. 
