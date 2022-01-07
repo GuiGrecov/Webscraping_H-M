@@ -4,9 +4,7 @@
 
  <b> AVISO: </b> O CEO citado no problema de negócios não existe. Esse webscraping foi feito para fins de estudos e demonstração de habilidades/competências não me responsabilizo para o uso indefido desse código de Webscraping. 
  <br>
- <br>
-
-  <b> O QUE É WEBSCRAPING: </b> Webscraping é uma técnica capaz de organizar em uma tabela os dados de um site, isso é feito varrendo o HTLM do site e chegando a informações disponíveis para os usuários. Muito utilizada em E-COMMERCE para monitorar o preço de concorrentes. 
+  * <b> O QUE É WEBSCRAPING: </b> Webscraping é uma técnica capaz de organizar em uma tabela os dados de um site, isso é feito varrendo o HTLM. Muito utilizada em E-COMMERCE para monitorar o preço de concorrentes. 
  
  
 
