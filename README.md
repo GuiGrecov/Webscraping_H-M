@@ -14,7 +14,7 @@
 
  # Questão de Negócio 
  
- Fazer o Webscraping para esses investidores Brasileiros, por 2 meses, até conseguirmos dados suficientes para uma análise sempre com em vista de que ele gostaria de insirir uma única peça no mercado. 
+ Fazer o Webscraping para esses investidores Brasileiros, por 2 meses, até conseguirmos dados suficientes para uma análise. 
  
  
  
