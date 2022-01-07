@@ -32,14 +32,6 @@ Programei para o Webscrping gerar um arquivo por dia, para totalizar os 2 meses 
   A cada dia que o Webscraping for executado ele atualiza um arquivo novo com o final de data diferente. 
   
   ## Modelo de Entrega dos Dados 
-  
-product_id	color_name	Art. No.	Fit	More sustainable materials	color_id	product_price	product_name	style_id	product_category	scrapy_datetime	size_model	size_number	cotton	polyester	spandex	elasterell
-690449001	light_denim_blue/trashed	690449001	skinny_fit		1	16.99	skinny_jeans	690449	men_jeans_ripped	25/12/2021 12:27			0.99		0.01	
-690449002	denim_blue	690449002	skinny_fit		2	14.99	skinny_jeans	690449	men_jeans_ripped	25/12/2021 12:27			0.98		0.02	
-690449006	black/washed	690449006	skinny_fit		6	7.99	skinny_jeans	690449	men_jeans_ripped	25/12/2021 12:27			0.98		0.02	
-690449007	light_denim_blue	690449007	skinny_fit		7	14.99	skinny_jeans	690449	men_jeans_ripped	25/12/2021 12:27			0.98		0.02	
-690449009	black_washed_out	690449009	skinny_fit		9	19.99	skinny_jeans	690449	men_jeans_ripped	25/12/2021 12:27			0.99		0.01	
-690449011	white	690449011	skinny_fit		11	19.99	skinny_jeans	690449	men_jeans_ripped	25/12/2021 12:27			0.99		0.01	
-![image](https://user-images.githubusercontent.com/94385953/148568095-a9d0fa5b-80fc-493a-84b2-a0f548554dda.png)
-
+![image](https://user-images.githubusercontent.com/94385953/148568519-8c208c5d-0840-462e-8a30-8b0ccb46aa5e.png)
+Vamos entregar uma tabela dessa cada dia, com os valores retirados do site diariamente, ou seja, o preço, produto, cores, podem variar de acordo com o estoque e mudanças nas coleções.
 
