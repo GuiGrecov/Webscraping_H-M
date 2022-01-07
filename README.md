@@ -37,3 +37,15 @@ Vamos entregar uma tabela dessa cada dia, com os valores retirados do site diari
 
 
 # 4. Arquitetura do Webscraping
+O webscraping que fizemos foi dividido por 4 jobs (4 tarefas) que rodam em sequência para conseguir gerar o csv com as informações diárias de produtos. 
+![image](https://user-images.githubusercontent.com/94385953/148576978-17f4a841-00cd-4a6e-b776-d5a599e4a84f.png)
+<br> 
+* **JOB 1** : O primeiro trabalho é responsável por entrar na página de JEANS MASCULINOS e selecionar a vitrine das calças JEANS.
+* **JOB 2** : O segundo trabalho é responsável por entrar em cada produta da loja e pegar as informações de cores de produto, tipos de modelos, código do produto no e-commerce, código único do produto.
+**OBSERVAÇÃO**- a maior dificuldade do JOB 2 foi selecionar o pegar as informações pela cor do produto - quando o usuário muda a cor da calça sua composição e modelo muda junto. O JOB 2 é responsável por varrer essa informação. 
+* **JOB 3**: Etapa conhecida como DATA CLEANING precisamos rodar algumas REGEX para limpar os dados e transformar de um jeito que o modelo consiga entender. 
+* **JOB 4**: Essa última tarefa é responsável por salvar os CSV gerados diariamente em uma pasta pré-configurada no Windows. 
+**OBSERVAÇÃO**- caso esse processo fosse feito em uma empresa essa etapa seria substítuida por um servidor. 
+
+
+
