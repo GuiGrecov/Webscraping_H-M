@@ -47,5 +47,15 @@ O webscraping que fizemos foi dividido por 4 jobs (4 tarefas) que rodam em sequ�
 * **JOB 4**: Essa última tarefa é responsável por salvar os CSV gerados diariamente em uma pasta pré-configurada no Windows. 
 **OBSERVAÇÃO**- caso esse processo fosse feito em uma empresa essa etapa seria substítuida por um servidor. 
 
+# 4.1 Conclusão Webscraping 
+Ao final desse projeto de webscraping foi possível compreender como funciona a retirada de dados de um e-commerce. Bem como, as dificuldades que rodiam a etapa de DATA CLEANING. A quantidade de informações que podemos retirar com um webscraping é um mundo de opções. 
 
+# 5. Próxima etapa
+Iniciar mais um ciclo depois de 2 meses, no mês de março em 2022. Agora com uma quantidade significativa de amostra para conseguir finalizar o pedido do CEO e investidor da marca de Jeans brasileiro. 
+
+Possíveis pontos que serão aboradados: 
++ HEROKU (DASHBOARD) 
++ POWER BI (DASHBOARD) 
++ ESTATÍSTICA 
++ EDA -> Análise Exploratória de Dados
 
