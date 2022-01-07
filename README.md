@@ -35,3 +35,5 @@ Programei para o Webscraping gerar um arquivo por dia, para totalizar os 2 meses
 ![image](https://user-images.githubusercontent.com/94385953/148568519-8c208c5d-0840-462e-8a30-8b0ccb46aa5e.png)
 Vamos entregar uma tabela dessa cada dia, com os valores retirados do site diariamente, ou seja, o preço, produto, cores, podem variar de acordo com o estoque e mudanças nas coleções.
 
+
+# Arquitetura do Webscraping
